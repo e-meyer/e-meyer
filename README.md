@@ -2,7 +2,7 @@
 
 i'm a **mobile developer** that uses Flutter to make people's life better and hopefully easier
 
-this is the place where I store and share my secret knowledge <sup> *and also unfinished projects*. </sup>
+this is the place where I store and share my secret knowledge <sup> *and also unfinished projects* </sup>
 
 <details>
 <summary>⚡ more about me coding </summary>
@@ -14,7 +14,6 @@ this is the place where I store and share my secret knowledge <sup> *and also un
 
 </details>
 
-<br />
 
 <a href="https://linkedin.com/in/edmundomeyer">
   <img align="left" alt="Ed's LinkedIn" width="20px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
