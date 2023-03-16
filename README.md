@@ -1,8 +1,8 @@
 ## hey there ~ 👋
 
-i'm a **mobile developer** that uses Flutter to make people's life better and hopefully easier
+#### i'm a **mobile developer** that uses Flutter to make people's life better and hopefully easier
 
-this is the place where I store and share my secret knowledge <sup> *and also unfinished projects* </sup>
+#### this is the place where I store and share my secret knowledge <sup> *and also unfinished projects* </sup>
 
 <details>
 <summary>⚡ more about me coding </summary>
