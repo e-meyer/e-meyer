@@ -1,4 +1,4 @@
-## hey there ~ 👋
+## hey there ~
 
 <h4 style="font-weight: normal"> i'm a <span style="font-weight: bold"> mobile developer </span> that uses Flutter to make people's life better and hopefully easier </h4> 
 
@@ -15,7 +15,7 @@
 </details>
 
 
-<a href="https://linkedin.com/in/edmundomeyer" target="_blank">
+<a href="https://linkedin.com/in/edmundomeyer">
   <img align="left" alt="Ed's LinkedIn" width="20px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
 </a>
 
