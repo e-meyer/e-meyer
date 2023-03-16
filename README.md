@@ -5,7 +5,7 @@
 <h4 style="font-weight: normal"> this is the place where I store and share my secret knowledge <sup style="font-style: italic"> and also unfinished projects </sup> </h4>
 
 <details>
-<summary>⚡ more about me coding </summary>
+<summary>⚡ coding stats</summary>
 <br />
 
 ![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=e-meyer&theme=material-palenight&layout=compact&hide=css,html,c,cmake,C%2B%2B)
