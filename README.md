@@ -15,7 +15,7 @@
 </details>
 
 
-<a href="https://linkedin.com/in/edmundomeyer">
+<a href="https://linkedin.com/in/edmundomeyer" target="_blank">
   <img align="left" alt="Ed's LinkedIn" width="20px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
 </a>
 
