@@ -1,8 +1,10 @@
-## hey there ~
+## hey there ~ 👋
 
-<h4 style="font-weight: normal"> i'm a <span style="font-weight: bold"> mobile developer </span> that uses Flutter to make people's life better and hopefully easier </h4> 
+<h4 style="font-weight: normal"> a mobile developer, using Flutter to create and maintain apps </h4> 
 
 <h4 style="font-weight: normal"> this is the place where I store and share my secret knowledge <sup style="font-style: italic"> and also unfinished projects </sup> </h4>
+
+<h4 style="font-weight: normal"> interested in making difference wherever i am ~ </h4> 
 
 <details>
 <summary>⚡ coding stats</summary>
