@@ -1,12 +1,12 @@
 ## hey there ~ 👋
 
-<h4 style="font-weight: normal"> a mobile developer, using Flutter to create and maintain apps </h4> 
+a mobile developer, using Flutter to create and maintain apps
 
-<h4 style="font-weight: normal"> this is the place where I store and share my secret knowledge <sup style="font-style: italic"> and also unfinished projects </sup> </h4>
+this is the place where I store and share my secret knowledge <sup style="font-style: italic"> and also unfinished projects </sup>
 
-<h4 style="font-weight: normal"> interested in making the difference wherever i am ~ </h4> 
+interested in making the difference wherever i am ~
 
-<details>
+<!-- <details> -->
 <!-- <summary>⚡ coding stats</summary>
 <br />
 
