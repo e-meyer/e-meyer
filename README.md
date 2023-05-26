@@ -1,8 +1,8 @@
 ## hey there ~ 👋
 
-a mobile developer, using Flutter to create and maintain apps
+i enjoy finding and developing solutions for things that may or may not be useful
 
-this is the place where I store and share my secret knowledge <sup style="font-style: italic"> and also unfinished projects </sup>
+this is the place where I store and share my coding wisdom <sup style="font-style: italic"> and also unfinished projects </sup>
 
 interested in making the difference wherever i am ~
 
